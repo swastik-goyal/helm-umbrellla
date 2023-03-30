@@ -1,0 +1,5 @@
+myapp:
+  app:
+    image:
+      repository: nginx
+      tag: stable-alpine3.17-slim
