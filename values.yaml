@@ -3,4 +3,4 @@ app:
     app:
       image:
         repository: nginx
-        tag: stable-alpine3.17-slim
+        tag: stable-bullseye-perl
