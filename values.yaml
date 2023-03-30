@@ -3,4 +3,4 @@ app:
     app:
       image:
         repository: nginx
-        tag: stable-bullseye-perl
+        tag: latest
