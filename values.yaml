@@ -3,4 +3,4 @@ app:
     app:
       image:
         repository: nginx
-        tag: latest
+        tag: 1
